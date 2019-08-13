@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Ponte d&#x27;Arte, Portugal - the Art Bridge</title>
-    <link href="https://github.com/pontedarte/feed.xml" rel="self" />
-    <link href="https://github.com/pontedarte" />
-    <updated>2019-08-13T14:20:22+02:00</updated>
+    <link href="https://pontedarte.github.io/feed.xml" rel="self" />
+    <link href="https://pontedarte.github.io" />
+    <updated>2019-08-13T14:35:00+02:00</updated>
     <author>
         <name>Ponte d&#x27;Arte</name>
     </author>
-    <id>https://github.com/pontedarte</id>
+    <id>https://pontedarte.github.io</id>
 
     <entry>
         <title>Riverside apartment</title>
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://github.com/pontedarte/riverside-apartment.html"/>
-        <id>https://github.com/pontedarte/riverside-apartment.html</id>
+        <link href="https://pontedarte.github.io/riverside-apartment.html"/>
+        <id>https://pontedarte.github.io/riverside-apartment.html</id>
 
         <updated>2019-08-11T04:21:19+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/pontedarte/media/posts/17/download.png" alt="" />
+                    <img src="https://pontedarte.github.io/media/posts/17/download.png" alt="" />
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://github.com/pontedarte/media/posts/17/gallery/Bedroom-Apartment.jpg" ><img src="https://github.com/pontedarte/media/posts/17/gallery/Bedroom-Apartment-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/pontedarte/media/posts/17/gallery/download.png" ><img src="https://github.com/pontedarte/media/posts/17/gallery/download-thumbnail.png" alt="" width="768" height="558"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/pontedarte/media/posts/17/gallery/download-1.png" ><img src="https://github.com/pontedarte/media/posts/17/gallery/download-1-thumbnail.png" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/pontedarte/media/posts/17/gallery/download-2.png" ><img src="https://github.com/pontedarte/media/posts/17/gallery/download-2-thumbnail.png" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/pontedarte/media/posts/17/gallery/download-3.png" ><img src="https://github.com/pontedarte/media/posts/17/gallery/download-3-thumbnail.png" alt="" width="701" height="1052"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/pontedarte/media/posts/17/gallery/download-4.png" ><img src="https://github.com/pontedarte/media/posts/17/gallery/download-4-thumbnail.png" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/Bedroom-Apartment.jpg" ><img src="https://pontedarte.github.io/media/posts/17/gallery/Bedroom-Apartment-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/download.png" ><img src="https://pontedarte.github.io/media/posts/17/gallery/download-thumbnail.png" alt="" width="768" height="558"></a></figure>
+<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/download-1.png" ><img src="https://pontedarte.github.io/media/posts/17/gallery/download-1-thumbnail.png" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/download-2.png" ><img src="https://pontedarte.github.io/media/posts/17/gallery/download-2-thumbnail.png" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/download-3.png" ><img src="https://pontedarte.github.io/media/posts/17/gallery/download-3-thumbnail.png" alt="" width="701" height="1052"></a></figure>
+<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/17/gallery/download-4.png" ><img src="https://pontedarte.github.io/media/posts/17/gallery/download-4-thumbnail.png" alt="" width="768" height="576"></a></figure>
 </div>
             ]]>
         </content>
@@ -38,19 +38,19 @@
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://github.com/pontedarte/smallest-art-gallery-in-portugal.html"/>
-        <id>https://github.com/pontedarte/smallest-art-gallery-in-portugal.html</id>
+        <link href="https://pontedarte.github.io/smallest-art-gallery-in-portugal.html"/>
+        <id>https://pontedarte.github.io/smallest-art-gallery-in-portugal.html</id>
 
         <updated>2019-08-11T04:14:27+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/pontedarte/media/posts/16/Ponte-de-Mucela-57.jpg" alt="" />
+                    <img src="https://pontedarte.github.io/media/posts/16/Ponte-de-Mucela-57.jpg" alt="" />
                 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://github.com/pontedarte/media/posts/16/gallery/Ponte-de-Mucela-51.jpg" ><img src="https://github.com/pontedarte/media/posts/16/gallery/Ponte-de-Mucela-51-thumbnail.jpg" alt="" width="640" height="425"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/pontedarte/media/posts/16/gallery/Ponte-de-Mucela-52.jpg" ><img src="https://github.com/pontedarte/media/posts/16/gallery/Ponte-de-Mucela-52-thumbnail.jpg" alt="" width="640" height="427"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/pontedarte/media/posts/16/gallery/Ponte-de-Mucela-58.jpg" ><img src="https://github.com/pontedarte/media/posts/16/gallery/Ponte-de-Mucela-58-thumbnail.jpg" alt="" width="640" height="425"></a></figure>
-<figure class="gallery__item"><a href="https://github.com/pontedarte/media/posts/16/gallery/Ponte-de-Mucela-59.jpg" ><img src="https://github.com/pontedarte/media/posts/16/gallery/Ponte-de-Mucela-59-thumbnail.jpg" alt="" width="640" height="425"></a></figure>
+<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-51.jpg" ><img src="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-51-thumbnail.jpg" alt="" width="640" height="425"></a></figure>
+<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-52.jpg" ><img src="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-52-thumbnail.jpg" alt="" width="640" height="427"></a></figure>
+<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-58.jpg" ><img src="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-58-thumbnail.jpg" alt="" width="640" height="425"></a></figure>
+<figure class="gallery__item"><a href="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-59.jpg" ><img src="https://pontedarte.github.io/media/posts/16/gallery/Ponte-de-Mucela-59-thumbnail.jpg" alt="" width="640" height="425"></a></figure>
 </div>
             ]]>
         </content>
@@ -60,19 +60,19 @@
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://github.com/pontedarte/historical-documents-mentioning-the-bridge-at-mucela.html"/>
-        <id>https://github.com/pontedarte/historical-documents-mentioning-the-bridge-at-mucela.html</id>
+        <link href="https://pontedarte.github.io/historical-documents-mentioning-the-bridge-at-mucela.html"/>
+        <id>https://pontedarte.github.io/historical-documents-mentioning-the-bridge-at-mucela.html</id>
 
         <updated>2019-08-11T03:57:19+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/pontedarte/media/posts/15/RM2501-630.jpg" alt="" />
+                        <img src="https://pontedarte.github.io/media/posts/15/RM2501-630.jpg" alt="" />
                     We have located a few historical documents so far that tell us the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/pontedarte/media/posts/15/RM2501-630.jpg" alt="" />
+                    <img src="https://pontedarte.github.io/media/posts/15/RM2501-630.jpg" alt="" />
                 <div>We have located a few historical documents so far that tell us the story of this bridge. (<em>Map carried by Marshal Massena when his army invaded the Kingdom of Portugal in September 1810.  </em>Print in João Palha, Lisbon: Lithographs of the National Press, [sd].)</div>
 <div> </div>
 <div>An Excerpt from "Eloquent Soldier: The Peninsular War Journals of Lieutenant Charles Crowe of the Inniskillings, 1812-1814."  Edited by Gareth Glover. (p 33)</div>
@@ -205,19 +205,19 @@
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://github.com/pontedarte/the-art-gallery-space.html"/>
-        <id>https://github.com/pontedarte/the-art-gallery-space.html</id>
+        <link href="https://pontedarte.github.io/the-art-gallery-space.html"/>
+        <id>https://pontedarte.github.io/the-art-gallery-space.html</id>
 
         <updated>2019-08-11T03:51:10+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/pontedarte/media/posts/14/P1050106.JPG" alt="" />
+                        <img src="https://pontedarte.github.io/media/posts/14/P1050106.JPG" alt="" />
                     The fire could not stop us, and finally the new roof is&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/pontedarte/media/posts/14/P1050106.JPG" alt="" />
+                    <img src="https://pontedarte.github.io/media/posts/14/P1050106.JPG" alt="" />
                 <p>The fire could not stop us, and finally the new roof is on.  In October we open our first exhibition the new art gallery space, formerly a repair garage for trucks.</p>
             ]]>
         </content>
@@ -227,19 +227,19 @@
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://github.com/pontedarte/about-your-hosts.html"/>
-        <id>https://github.com/pontedarte/about-your-hosts.html</id>
+        <link href="https://pontedarte.github.io/about-your-hosts.html"/>
+        <id>https://pontedarte.github.io/about-your-hosts.html</id>
 
         <updated>2019-08-11T03:50:56+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/pontedarte/media/posts/13/WhatsApp-Image-2019-08-10-at-23.09.06.jpeg" alt="" />
+                        <img src="https://pontedarte.github.io/media/posts/13/WhatsApp-Image-2019-08-10-at-23.09.06.jpeg" alt="" />
                     x
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/pontedarte/media/posts/13/WhatsApp-Image-2019-08-10-at-23.09.06.jpeg" alt="" />
+                    <img src="https://pontedarte.github.io/media/posts/13/WhatsApp-Image-2019-08-10-at-23.09.06.jpeg" alt="" />
                 x
             ]]>
         </content>
@@ -249,19 +249,19 @@
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://github.com/pontedarte/left-of-center-oct-2017.html"/>
-        <id>https://github.com/pontedarte/left-of-center-oct-2017.html</id>
+        <link href="https://pontedarte.github.io/left-of-center-oct-2017.html"/>
+        <id>https://pontedarte.github.io/left-of-center-oct-2017.html</id>
 
         <updated>2019-08-11T03:42:45+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/pontedarte/media/posts/11/Panos-Greek-site-specific-art.jpg" alt="" />
+                        <img src="https://pontedarte.github.io/media/posts/11/Panos-Greek-site-specific-art.jpg" alt="" />
                     x
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/pontedarte/media/posts/11/Panos-Greek-site-specific-art.jpg" alt="" />
+                    <img src="https://pontedarte.github.io/media/posts/11/Panos-Greek-site-specific-art.jpg" alt="" />
                 x
             ]]>
         </content>
@@ -271,19 +271,19 @@
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://github.com/pontedarte/aftermath-oct-2018.html"/>
-        <id>https://github.com/pontedarte/aftermath-oct-2018.html</id>
+        <link href="https://pontedarte.github.io/aftermath-oct-2018.html"/>
+        <id>https://pontedarte.github.io/aftermath-oct-2018.html</id>
 
         <updated>2019-08-11T03:48:49+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/pontedarte/media/posts/10/P1040089.JPG" alt="" />
+                        <img src="https://pontedarte.github.io/media/posts/10/P1040089.JPG" alt="" />
                     x
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/pontedarte/media/posts/10/P1040089.JPG" alt="" />
+                    <img src="https://pontedarte.github.io/media/posts/10/P1040089.JPG" alt="" />
                 x
             ]]>
         </content>
@@ -293,8 +293,8 @@
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://github.com/pontedarte/resilience-and-re-inscription-oct-2019.html"/>
-        <id>https://github.com/pontedarte/resilience-and-re-inscription-oct-2019.html</id>
+        <link href="https://pontedarte.github.io/resilience-and-re-inscription-oct-2019.html"/>
+        <id>https://pontedarte.github.io/resilience-and-re-inscription-oct-2019.html</id>
 
         <updated>2019-08-11T03:49:41+02:00</updated>
             <summary></summary>
@@ -305,26 +305,26 @@
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://github.com/pontedarte/past.html"/>
-        <id>https://github.com/pontedarte/past.html</id>
+        <link href="https://pontedarte.github.io/past.html"/>
+        <id>https://pontedarte.github.io/past.html</id>
 
         <updated>2019-08-11T03:57:29+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/pontedarte/media/posts/7/Ponte-de-Mucela-82.jpg" alt="" />
+                        <img src="https://pontedarte.github.io/media/posts/7/Ponte-de-Mucela-82.jpg" alt="" />
                     Modern Portugal, south of the Douro river, and part of western Spain, were once named the Roman&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/pontedarte/media/posts/7/Ponte-de-Mucela-82.jpg" alt="" />
+                    <img src="https://pontedarte.github.io/media/posts/7/Ponte-de-Mucela-82.jpg" alt="" />
                 <p>Modern Portugal, south of the Douro river, and part of western Spain, were once named the Roman province Lusitania, after its Indo-European native peoples, the Lusitani.  Travelling on the trade route from Coimbra to Spain, the bridge located at Mucela was the only opportunity to cross the Rio Alva, which passes through steep mountains, and floods the valley at Mucela once a year in the rainy season. The first recorded stone bridge over the Rio Alva was constructed in 1295 during the reign of King Denis I.  The royal Almeida road, that linked the Kingdom to Spain, passed over the Ponte da Mucela. Known conservation works date back to the 16th century, at the time of Cardinal Henrique.  In 1811, the central arch of the bridge was blown up by French Napoleonic troops to prevent their retreat from the area during the Peninsular War, where they were nonetheless eventually defeated by the Anglo-Portuguese army.  Now the Estrada de Beira (N17), the road was widened to accommodate more traffic in 1994, and eventually bypassed by a new highway to Spain in 2000.  What remains today is the Ponte da Mucela.</p>
 <p>The Roman stone road is well preserved and visible in the basement of the stone farmhouse next to the bridge.  This may house a future 'Museu de Ponte Da Mucela', a small local museum housing annual educational exhibitions curated by artists researching the area, with no permanent collection.</p>
 <div> </div>
 <div>With the fall of the Roman Empire, much of Portugal lived under Islamic rule for over 500 years from the early 8th century, when North African invaders (Moors) overturned the Germanic kingdoms ruling the Iberian Peninsula.  Their presence in this landscape remains (at least in one interpretaion of legend) in the name of Moura Morta, the name of our neighbouring village. </div>
-<p><a href="https://github.com/pontedarte/historical-documents-mentioning-the-bridge-at-mucela.html">Read more detailed historical accounts of the bridge</a></p>
+<p><a href="https://pontedarte.github.io/historical-documents-mentioning-the-bridge-at-mucela.html">Read more detailed historical accounts of the bridge</a></p>
 <p> </p>
-<figure class="post__image post__image--left" ><img src="https://github.com/pontedarte/media/posts/7/PRS-lavegadas.png" alt="Lavegadas heraldic crest" width="368" height="433">
+<figure class="post__image post__image--left" ><img src="https://pontedarte.github.io/media/posts/7/PRS-lavegadas.png" alt="Lavegadas heraldic crest" width="368" height="433">
 <figcaption >With a population density of 22.2 inhabitants per km², Lavegadas is the smallest and least populated parish of the municipality of Vila Nova de Poiares, an area spanning 11.23 km², and housing 249 inhabitants (2001). It consists of seven villages, namely: Barreiro; Igrega Nova (adminstrative headquarters); Moura Morta; Mucela; Sabouga and São Pedro Dias. It is 30 kms distance from Coimbra.</figcaption>
 </figure>
 <div><strong>Heraldic Coat of Arms</strong></div>
@@ -352,19 +352,19 @@
         <author>
             <name>Ponte d&#x27;Arte</name>
         </author>
-        <link href="https://github.com/pontedarte/nearby.html"/>
-        <id>https://github.com/pontedarte/nearby.html</id>
+        <link href="https://pontedarte.github.io/nearby.html"/>
+        <id>https://pontedarte.github.io/nearby.html</id>
 
         <updated>2019-08-11T03:53:59+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/pontedarte/media/posts/6/Conimbriga_calling_article.jpg" alt="" />
+                        <img src="https://pontedarte.github.io/media/posts/6/Conimbriga_calling_article.jpg" alt="" />
                      You might come to stay in a forgotten village, but that does&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://github.com/pontedarte/media/posts/6/Conimbriga_calling_article.jpg" alt="" />
+                    <img src="https://pontedarte.github.io/media/posts/6/Conimbriga_calling_article.jpg" alt="" />
                 <p> </p>
 <p>You might come to stay in a forgotten village, but that does not mean there is nothing to se and do.  Apart from the langscape in walking distance, inspiring day trips are warmly recommended. There is is a wide variety of cultural and lifestyle attractions within 30 mins drive of Ponte d'Arte.</p>
 <p>The venue is not far from:</p>
